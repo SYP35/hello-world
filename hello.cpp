@@ -18,8 +18,5 @@ int main()
 {
     std::cout << "main function\n";
     std::cout << "syp";
-    
-
-
 }
 
