@@ -17,6 +17,6 @@ Foo f;
 int main()
 {
     std::cout << "main function\n";
-
+    std::cout << "su yin ping";
 }
 
