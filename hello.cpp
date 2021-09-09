@@ -17,7 +17,7 @@ Foo f;
 int main()
 {
     std::cout << "main function\n";
-    std::cout << "sypdev";
-    std::cout << "sypdev";
+    std::cout << "sypmain";
+    std::cout << "pingmain";
 }
 
